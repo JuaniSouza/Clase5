@@ -1,1 +1,1 @@
-dos
+dos es un numero par
